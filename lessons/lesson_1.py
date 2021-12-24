@@ -1,7 +1,7 @@
 class Point:
     """Класс для описания координат точки на плоскости"""
-    x = 1
-    y = 1
+    x = 1  # атрибут x класса Point
+    y = 1  # атрибут y класса Point
 
 
 class_description = Point.__doc__
